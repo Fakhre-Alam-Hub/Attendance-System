@@ -36,3 +36,6 @@ Following functionalities are performed by the employee:
 
 
 https://user-images.githubusercontent.com/60462475/160824093-10710ae5-ddd9-4f54-aec7-62edd4444aad.mp4
+
+
+https://user-images.githubusercontent.com/60462475/160826881-9c65bdc7-2470-4155-bf23-221d48d622a8.MP4
