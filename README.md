@@ -33,3 +33,6 @@ Following functionalities are performed by the employee:
 * Login
 * Mark his/her time-in and time-out by scanning their face
 * View attendance report of self
+
+
+https://user-images.githubusercontent.com/60462475/160824093-10710ae5-ddd9-4f54-aec7-62edd4444aad.mp4
